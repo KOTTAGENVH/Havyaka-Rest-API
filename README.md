@@ -41,6 +41,8 @@ No authentication or authorization is required to access this API.
 
 `/api/product?godName=Lakshmi` : Retrieve a mantra by god name.
 
+`api/product?range=long&name=Durga Suktam` : For both name and range
+
 
 ## Demo
 
@@ -69,6 +71,7 @@ No authentication or authorization is required to access this API.
 ## Author - About Me
 `github`
 - [X]  [@gaonkarBhai](https://github.com/gaonkarBhai)
+
 `Linkedin`
 - [X]  [@Naveen](https://www.linkedin.com/in/naveen-gaonkar-2b0810258/)
 
