@@ -7,9 +7,15 @@ const getProduct = async (req, res) => {
         const limit = Number(req.query.limit) || 5;
         const sort = req.query.sort;
         const feilds = req.query.feilds;
+        const range = req.query.range;
+        const name = req.query.name;
 
-        let data = Product.find({}).limit(limit);
-        
+        const queryObj = {}
+        if(range) queryObj.range = range;
+        if(name) queryObj.name = { $regex: name, $options: "i" };
+
+        let data = Product.find(queryObj).limit(limit);
+
         if(sort){
             const sortList = sort.split(',').join(" ")
             data = data.sort(sortList);
