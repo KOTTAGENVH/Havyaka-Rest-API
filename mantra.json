@@ -1,38 +1,413 @@
 [
     {
-        "name":"Vakratunda Mahakaya",
-        "shloka":"Vakratunda Mahakaya, Surya Koti Samaprabha Nirvighnam Kurume Deva Sarva Karyeshu Sarvadah",
-        "range":"short",
-        "godName":"Lord Ganesha",
-        "purpose":"This shloka is often chanted at the beginning of important ceremonies or rituals as Lord Ganesha is believed to be the remover of obstacles and the lord of auspicious beginnings."
+  "number": 1,
+  "name": "Gayatri Mantra",
+  "shloka": "Om Bhur Bhuva Swaha, Tat Savitur Varenyam Bhargo Devasya Dheemahi, Dhiyo Yo Nah Prachodayat",
+  "translation": "We meditate on the transcendental glory of the Deity Supreme, who is inside the heart of the earth, inside the life of the sky, and inside the soul of Heaven. May He stimulate and illuminate our minds.",
+  "range": "long",
+  "godName": "The Sun God (Savitur)",
+  "purpose": "The Gayatri Mantra is a sacred Vedic chant that is dedicated to the Sun God and is believed to bestow wisdom, enlightenment, and divine grace.",
+  "duration": "Repetition 108 times",
+  "origin": "Rigveda",
+  "chantingInstructions": "Sit in a calm and quiet place, focus your attention on the divine qualities of the Sun God, and chant the mantra with sincerity and devotion. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Enhances spiritual growth, promotes intellectual sharpness, brings clarity of thought, and bestows divine blessings.",
+  "culturalSignificance": "The Gayatri Mantra holds immense cultural and spiritual significance in Hinduism and is considered one of the most important and powerful mantras.",
+  "references": [
+    {
+      "title": "Rigveda",
+      "link": "https://www.sacred-texts.com/hin/rigveda/"
     },
     {
-        "name":"Tryambakam Yajamahe",
-        "shloka":"Om Tryambakam Yajamahe Sugandhim Pushtivardhanam Urvarukamieva Bandhanan Mrityormukshiya Mamrita",
-        "range":"short",
-        "godName":"Shri Mahadeva",
-        "purpose":"This mantra is often chanted or recited in Hinduism for protection, health, and spiritual enlightenment. It is believed that the mantra has the power to conquer death and bring about a long and healthy life. The reference to the cucumber in the mantra is symbolic of the soul's release from the cycle of birth and death, similar to how a cucumber is severed from its vine."
-    },
-    {
-        "name":"Mangalam Vishnu",
-        "shloka":"Mangalam Vishnu Mangalam Garudadhvaja Mangalam Pundarikaksha Mangalay Tano Harih",
-        "range":"short",
-        "godName":"Sri Hari Vishnu",
-        "purpose":"The shloka invokes the blessings of Lord Vishnu and is chanted to seek his protection, grace, and blessings for a happy and peaceful life."
-    },
-    {
-        "name":"Shri Suktam",
-        "shloka":"Om Hiranya Varnaam Harineem Suvarna Rajata Srajaam । Chandraam Hiranmayeem Lakshmeem Jaatavedo Ma Aa Vaha ॥1॥ Taam Ma Aa Vaha Jaatavedo Lakshmee Manapa Gaamineem । Yasyaam Hiranyam Vindeyam Gaamashvam Purushaa Naham ॥2॥ Ashva Purvaam Ratha Madhyaam Hastinaada Pramodineem । Shriyam Deveemupa Hvaye Shreermaa Devee Jushataam ॥3॥ Kaam Sosmitaam Hiranya Praakaaraa Maardraam Jvalanteem Triptaam Tarpayanteem । Padme Sthitaam Padma Varnaam Taamihopa Hvaye Shriyam ॥4॥ Chandraam Prabhaasaam Yashasaa Jvalanteem Shriyam Loke Deva Jushtaa Mudaaraam । Taam Padmineemeem Sharanam Prapadye Alakshmeerme Nashyataam Tvaam Vrine ॥5॥ Aaditya Varne Tapasoadhi Jaato Vanaspati Stava Vrikshoatha Bilvah । Tasya Phalaani Tapasaa Nudantu Yaa Antaraa Yaashcha Baahyaa Alakshmeeh ॥6॥ Upaitu Maam Devasakhah Keertishcha Maninaa Saha । Praadurbhutoasmi Raashtreasmin Keerti Mriddhim Dadaatu Me ॥7॥ Kshutpipaasaa Malaam Jyeshthaama Lakshmeem Naashayaa Myaham । Abhutima Samriddhim Cha Sarvaam Nirnuda Me Grihaat ॥8॥ Gandha Dvaaraam Duraadharshaam Nitya Pushtaam Kareeshineem । Ishvareem Sarva Bhutaanaam Taamihopa Hvaye Shriyam ॥9॥ Manasah Kaamamaa Kutim Vaachah Satya Masheemahi । Pashunaam Rupa Mannasya Mayi Shreeh Shrayataam Yashah ॥10॥ Kardamena Prajaa Bhutaa Mayi Sambhava Kardama । Shriyam Vaasaya Me Kule Maataram Padma Maalineem ॥11॥ Aapah Srijantu Snigdhaani Chikleeta Vasa Me Grihe । Ni Cha Deveem Maataram Shriyam Vaasaya Me Kule ॥12॥ Aardraam Pushkarineem Pushtim Pingalaam Padma Maalineem ।Chandraam Hiranmayeem Lakshmeem Jaatavedo Ma Aa Vaha ॥13॥ Aardraam Yah Karineem Yashtim Suvarnaam Hema Maalineem । Suryaam Hiranmayeem Lakshmeem Jaatavedo Ma Aa Vaha ॥14॥ Taam Ma Aa Vaha Jaatavedo Lakshmee Manapa Gaamineem ।Yasyaam Hiranyam Prabhutam Gaavo Daasyo Ashvaan Vindeyam Purushaa Naham ॥15॥ Yah Shuchih Prayato Bhutvaa Juhuyaadaajya Manvaham । Suktam Pancha Dasharcham Cha Shree Kaamah Satatam Japet ॥16॥ Padmaanane Padma Vipadma Patre Padmapriye Padma Dalaayataakshi । Vishvapriye Vishnu Manoanukule Tvatpaada Padmam Mayi San Ni Dhatsva ॥17॥ Padmaanane Padmauru Padmaakshi Padma Sambhave । Tanme Bhajasi Padmaakshi Yena Saukhyam Labhaamyaham ॥18॥ Ashvadaayi Godaayi Dhanadaayi Mahaadhane । Dhanam Me Jushataam Devi Sarva Kaamaanshcha Dehi Me ॥19॥ Putra Pautra Dhanam Dhaanyam Hastya Shvaashvataree Ratham । Prajaanaam Bhavasi Maataa Aayushmantam Karotu Me ॥20॥ Dhanamagnir Dhanam Vaayur Dhanam Suryo Dhanam Vasuh । Dhanamindro Brihaspatir Varuno Dhana Mashvinaa ॥21॥ Vainateya Somam Piba Somam Pibatu Vritrahaa । Somam Dhanasya Somino Mahyam Dadaatu Sominah ॥22॥ Na Krodho Na Cha Maatsaryam Na Lobho Naashubhaa Matih । Bhavanti Krita Punyaanaam Bhaktyaa Shree Sukta Jaapinaam ॥23॥ Sarasija Nilaye Saroja Haste Dhavala Taraanshuka Gandha Maalya Shobhe । Bhagavati Hari Vallabhe Manogye Tribhuvana Bhutikari Praseeda Mahyam ॥24॥ Vishnu Patneem Kshamaam Deveem Maadhaveem Maadhava Priyaam । Lakshmeem Priya Sakheem Bhumim Namaamya Chyuta Vallabhaam ॥25॥ Mahaa Lakshmyai Cha Vidmahe Vishnu Patnyai Cha Dheemahi । Tanno Lakshmeeh Prachodayaat ॥26॥ Aanandah Kardamah Shree Dashchikleeta Iti Vishrutaah । Rishayah Shriyah Putraashcha Shreer Deveer Devataa Mataah ॥27॥ Rinarogaadi Daaridrya Paapa Kshudapa Mrityavah । Bhaya Shoka Manastaapaa Nashyantu Mama Sarvadaa ॥28॥ Shreer Varchasva Maayushya Maarogya Maavidhaachchhobha Maanam Maheeyate । Dhanam Dhaanyam Pashum Bahuputra Laabham Shata Samvatsaram Deergha Maayuh ॥29॥",
-        "range":"long",
-        "godName":"Lakshmi",
-        "purpose":"It is dedicated to the goddess Lakshmi, who is considered the goddess of wealth, prosperity, and fortune. The hymn consists of sixteen verses, and it is believed to bring blessings of abundance and prosperity to those who recite it with devotion."
-    },
-    {
-        "name":"Durga Suktam",
-        "shloka":"Om Jatavedase sunavama soma marateeyatho nidahathi vedahaSa nah parshadati Durgani viswa naveva sindhum duritaatyagnihi (1) Tamagni varnaam tapasa jwalanteem vairochaneem karma phaleshu justhamm Durgam devigum sharanamaham prapadye sutarasi tarase namaha (2) Agne twam paraya navyo asmaam swasthibhirathi Durgani viswa Puuscha prudhivi bahulaa na urvi bhavaa thokaya tanayaya shamyoh (3) Viswani noo Durgaha jatavedah sindhum na navaa durithatiparshi Agne atrivanmanasa grunanoosmakam bhodyavitha tanunaam (4) Prutana jithagum sahamanamugra-magnigum huvema paramadsadasdath Sa nah parshadati Durgani viswa kshaamaddevo ati duritaat-yagnihi (5) Pratnoshi kameedyo adhvareshu sanaccha hota navyascha satsi Swamchagne tanuvam pipraya-swasmabhyam cha saubhagamayajaswa (6) Gobhirjustha-mayujo nishiktham tavendra vishnoranu-sancharema Nakasya prusthamabhi samvasano vaishnavim loka iha madayantham (7) Om katyayanaya vidmahe Kanyakumari dhemahi tanno durgi prachodayath Om shanthi shanthi santhihi",
-        "range":"long",
-        "godName":"Durga",
-        "purpose":" The purpose of the hymn is to invoke the blessings and protection of Goddess Durga, who is regarded as the ultimate embodiment of feminine power and strength."
+      "title": "Yajurveda",
+      "link": "https://www.sacred-texts.com/hin/yv/"
     }
-
+  ]
+},{
+  "number": 2,
+  "name": "Om Namah Shivaya Mantra",
+  "shloka": "ॐ नमः शिवाय",
+  "translation": "Salutations to Lord Shiva",
+  "range": "short",
+  "godName": "Lord Shiva",
+  "purpose": "The Om Namah Shivaya mantra is a powerful chant dedicated to Lord Shiva, invoking his blessings, protection, and inner transformation.",
+  "duration": "Repetition 108 times",
+  "origin": "Yajurveda",
+  "chantingInstructions": "Sit in a comfortable position, close your eyes, and chant the mantra with devotion and reverence. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Brings inner peace, spiritual upliftment, purifies the mind, and helps in overcoming obstacles.",
+  "culturalSignificance": "The Om Namah Shivaya mantra is highly revered in Hinduism and is considered one of the most sacred and widely practiced mantras.",
+  "references": [
+    {
+      "title": "Yajurveda",
+      "link": "https://www.sacred-texts.com/hin/yv/"
+    },
+    {
+      "title": "Shiva Purana",
+      "link": "https://www.sacred-texts.com/hin/sp/index.htm"
+    }
+  ]
+},
+{
+  "number": 3,
+  "name": "Hare Krishna Mantra",
+  "shloka": "Hare Krishna Hare Krishna, Krishna Krishna Hare Hare, Hare Rama Hare Rama, Rama Rama Hare Hare",
+  "translation": "O Supreme Lord, please engage me in Your devotional service",
+  "range": "long",
+  "godName": "Lord Krishna",
+  "purpose": "The Hare Krishna mantra is a popular chant that invokes the divine presence of Lord Krishna and Radha, seeking their divine love, grace, and spiritual awakening.",
+  "duration": "Repetition 108 times",
+  "origin": "Vedic Scriptures",
+  "chantingInstructions": "Sit in a peaceful place, focus your mind on Lord Krishna, and chant the mantra with devotion and sincerity. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Brings spiritual growth, deepens one's connection with the divine, cultivates love and devotion, and purifies the heart and mind.",
+  "culturalSignificance": "The Hare Krishna mantra is a prominent mantra in the International Society for Krishna Consciousness (ISKCON) and is widely practiced by devotees of Lord Krishna.",
+  "references": [
+    {
+      "title": "Srimad Bhagavatam",
+      "link": "https://www.sacred-texts.com/hin/sbr/"
+    },
+    {
+      "title": "Bhagavad Gita",
+      "link": "https://www.sacred-texts.com/hin/sbe08/"
+    }
+  ]
+},
+{
+  "number": 4,
+  "name": "Om Shanti Mantra",
+  "shloka": "Om Shanti Shanti Shanti",
+  "translation": "Om, peace, peace, peace",
+  "range": "short",
+  "godName": "Universal peace",
+  "purpose": "The Om Shanti mantra is a powerful chant for invoking peace, harmony, and tranquility in oneself and the world.",
+  "duration": "Repetition 108 times",
+  "origin": "Vedic Scriptures",
+  "chantingInstructions": "Sit in a quiet place, close your eyes, and chant the mantra with a calm and peaceful mind. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Promotes inner peace, reduces stress and anxiety, creates a harmonious environment, and spreads positive vibrations.",
+  "culturalSignificance": "The Om Shanti mantra is widely chanted in various spiritual practices and is embraced as a universal prayer for peace.",
+  "references": [
+    {
+      "title": "Atharva Veda",
+      "link": "https://www.sacred-texts.com/hin/av/"
+    }
+  ]
+},
+{
+  "number": 5,
+  "name": "Saraswati Mantra",
+  "shloka": "Om Aim Saraswatyai Namaha",
+  "translation": "Om, I bow to Goddess Saraswati",
+  "range": "short",
+  "godName": "Goddess Saraswati",
+  "purpose": "The Saraswati mantra is a sacred chant dedicated to Goddess Saraswati, the divine embodiment of knowledge, wisdom, and arts. It is chanted to seek her blessings for enhancing intellect and creativity.",
+  "duration": "Repetition 108 times",
+  "origin": "Rigveda",
+  "chantingInstructions": "Sit in a peaceful environment, visualize Goddess Saraswati, and chant the mantra with devotion and focus. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Enhances knowledge, promotes learning, stimulates creativity, improves memory and concentration, and brings forth artistic talents.",
+  "culturalSignificance": "The Saraswati mantra is highly revered in Hinduism and is often recited by students, scholars, and artists to invoke the blessings of Goddess Saraswati.",
+  "references": [
+    {
+      "title": "Rigveda",
+      "link": "https://www.sacred-texts.com/hin/rigveda/"
+    }
+  ]
+},
+{
+  "number": 6,
+  "name": "Ganesha Mantra",
+  "shloka": "Om Gam Ganapataye Namaha",
+  "translation": "Om, I bow to Lord Ganesha",
+  "range": "short",
+  "godName": "Lord Ganesha",
+  "purpose": "The Ganesha mantra is a sacred chant dedicated to Lord Ganesha, the remover of obstacles and the deity of wisdom and intellect. It is chanted to seek his blessings for success, knowledge, and the removal of obstacles.",
+  "duration": "Repetition 108 times",
+  "origin": "Ganesha Purana",
+  "chantingInstructions": "Sit in a calm place, meditate on Lord Ganesha, and chant the mantra with devotion and sincerity. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Removes obstacles from one's path, promotes success and prosperity, enhances wisdom, and instills a sense of divine protection.",
+  "culturalSignificance": "The Ganesha mantra is widely chanted at the beginning of new ventures, ceremonies, and academic pursuits, seeking the blessings of Lord Ganesha.",
+  "references": [
+    {
+      "title": "Ganesha Purana",
+      "link": "https://www.wisdomlib.org/hinduism/book/the-ganesha-purana"
+    }
+  ]
+},
+{
+  "number": 7,
+  "name": "Lakshmi Mantra",
+  "shloka": "Om Shreem Maha Lakshmiyei Namaha",
+  "translation": "Om, I bow to Goddess Lakshmi",
+  "range": "short",
+  "godName": "Goddess Lakshmi",
+  "purpose": "The Lakshmi mantra is a sacred chant dedicated to Goddess Lakshmi, the deity of wealth, prosperity, and abundance. It is chanted to seek her blessings for material and spiritual wealth.",
+  "duration": "Repetition 108 times",
+  "origin": "Sri Sukta",
+  "chantingInstructions": "Sit in a serene place, visualize Goddess Lakshmi, and chant the mantra with devotion and gratitude. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Attracts wealth and prosperity, bestows abundance and good fortune, removes financial obstacles, and brings overall well-being.",
+  "culturalSignificance": "The Lakshmi mantra is widely recited during festivals and rituals associated with Goddess Lakshmi, such as Diwali, to invoke her blessings and grace.",
+  "references": [
+    {
+      "title": "Sri Sukta",
+      "link": "https://www.sacred-texts.com/hin/rvsan/rv10018.htm"
+    }
+  ]
+},
+{
+  "number": 8,
+  "name": "Hanuman Mantra",
+  "shloka": "Om Hum Hanumate Namaha",
+  "translation": "Om, I bow to Lord Hanuman",
+  "range": "short",
+  "godName": "Lord Hanuman",
+  "purpose": "The Hanuman mantra is a sacred chant dedicated to Lord Hanuman, the divine embodiment of strength, devotion, and protection. It is chanted to seek his blessings for courage, inner strength, and overcoming challenges.",
+  "duration": "Repetition 108 times",
+  "origin": "Hanuman Chalisa",
+  "chantingInstructions": "Sit in a peaceful place, connect with the presence of Lord Hanuman, and chant the mantra with utmost reverence and faith. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Boosts physical and mental strength, instills courage and fearlessness, provides protection from negative energies, and promotes spiritual growth.",
+  "culturalSignificance": "The Hanuman mantra is widely chanted by devotees of Lord Hanuman, especially during Hanuman Jayanti and other significant festivals associated with him.",
+  "references": [
+    {
+      "title": "Hanuman Chalisa",
+      "link": "https://www.sacred-texts.com/hin/rav/ram05001.htm"
+    }
+  ]
+},
+{
+  "number": 9,
+  "name": "Surya Mantra",
+  "shloka": "Om Hram Hreem Hroum Sah Suryaya Namaha",
+  "translation": "Om, I bow to Lord Surya",
+  "range": "short",
+  "godName": "Lord Surya (The Sun God)",
+  "purpose": "The Surya mantra is a sacred chant dedicated to Lord Surya, the Sun God. It is chanted to seek his blessings for vitality, good health, positive energy, and spiritual enlightenment.",
+  "duration": "Repetition 108 times",
+  "origin": "Aditya Hridayam",
+  "chantingInstructions": "Sit facing the east or in a place where sunlight is available, offer water to the Sun God, and chant the mantra with reverence and gratitude. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Enhances physical and mental well-being, promotes radiant and glowing health, improves vision and clarity, and boosts overall vitality.",
+  "culturalSignificance": "The Surya mantra is an integral part of various Hindu rituals and is often chanted during sunrise as a form of worship and acknowledgment of Lord Surya.",
+  "references": [
+    {
+      "title": "Aditya Hridayam",
+      "link": "https://www.sacred-texts.com/hin/mbs/mbs06232.htm"
+    }
+  ]
+},
+{
+  "number": 10,
+  "name": "Shiva Mantra",
+  "shloka": "Om Namah Shivaya",
+  "translation": "Om, I bow to Lord Shiva",
+  "range": "short",
+  "godName": "Lord Shiva",
+  "purpose": "The Shiva mantra is a powerful chant dedicated to Lord Shiva, the Supreme Being and the destroyer of negative forces. It is chanted to seek his blessings for spiritual growth, inner peace, and liberation.",
+  "duration": "Repetition 108 times",
+  "origin": "Yajurveda",
+  "chantingInstructions": "Sit in a calm and meditative posture, connect with the divine presence of Lord Shiva, and chant the mantra with devotion and surrender. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Promotes inner transformation, purifies the mind and soul, removes obstacles on the spiritual path, and grants spiritual awakening and liberation.",
+  "culturalSignificance": "The Shiva mantra is highly revered in Hinduism and is considered one of the most sacred mantras. It is chanted in temples, during religious ceremonies, and as part of personal sadhana (spiritual practice).",
+  "references": [
+    {
+      "title": "Yajurveda",
+      "link": "https://www.sacred-texts.com/hin/yv/"
+    }
+  ]
+},
+{
+  "number": 11,
+  "name": "Krishna Mantra",
+  "shloka": "Om Kleem Krishnaya Namaha",
+  "translation": "Om, I bow to Lord Krishna",
+  "range": "short",
+  "godName": "Lord Krishna",
+  "purpose": "The Krishna mantra is a sacred chant dedicated to Lord Krishna, the divine incarnation of Lord Vishnu. It is chanted to seek his blessings for divine love, devotion, and spiritual liberation.",
+  "duration": "Repetition 108 times",
+  "origin": "Bhagavata Purana",
+  "chantingInstructions": "Sit in a calm and serene place, visualize Lord Krishna's divine form, and chant the mantra with utmost love and devotion. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Fosters devotion and love for God, brings inner joy and peace, promotes spiritual growth, and bestows the grace of Lord Krishna.",
+  "culturalSignificance": "The Krishna mantra is widely chanted by devotees of Lord Krishna, especially during Krishna Janmashtami and other Krishna-related festivals.",
+  "references": [
+    {
+      "title": "Bhagavata Purana",
+      "link": "https://www.wisdomlib.org/hinduism/book/shrimad-bhagavatam"
+    }
+  ]
+},
+{
+  "number": 12,
+  "name": "Durga Mantra",
+  "shloka": "Om Dum Durgayei Namaha",
+  "translation": "Om, I bow to Goddess Durga",
+  "range": "short",
+  "godName": "Goddess Durga",
+  "purpose": "The Durga mantra is a sacred chant dedicated to Goddess Durga, the divine mother and the embodiment of strength and protection. It is chanted to seek her blessings for courage, empowerment, and the removal of obstacles.",
+  "duration": "Repetition 108 times",
+  "origin": "Durga Saptashati",
+  "chantingInstructions": "Sit in a quiet place, visualize Goddess Durga, and chant the mantra with devotion and reverence. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Provides protection from negativity and evil forces, instills inner strength and fearlessness, promotes spiritual growth, and blesses with divine grace.",
+  "culturalSignificance": "The Durga mantra is widely recited during Navratri and other Durga-related festivals, invoking the power and blessings of Goddess Durga.",
+  "references": [
+    {
+      "title": "Durga Saptashati",
+      "link": "https://www.sacred-texts.com/hin/durga-s.htm"
+    }
+  ]
+},
+{
+  "number": 13,
+  "name": "Sita Ram Mantra",
+  "shloka": "Om Shreem Hreem Kleem Aim Sita Ramaya Namaha",
+  "translation": "Om, I bow to Lord Rama and Sita",
+  "range": "short",
+  "godName": "Lord Rama and Goddess Sita",
+  "purpose": "The Sita Ram mantra is a sacred chant that invokes the blessings of Lord Rama and Goddess Sita. It is chanted to seek their divine love, harmony, and protection.",
+  "duration": "Repetition 108 times",
+  "origin": "Ramayana",
+  "chantingInstructions": "Sit in a calm and peaceful environment, visualize Lord Rama and Goddess Sita, and chant the mantra with utmost devotion and love. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Promotes love, unity, and harmony in relationships, bestows marital bliss and happiness, purifies the heart, and invokes divine blessings.",
+  "culturalSignificance": "The Sita Ram mantra is often chanted by devotees of Lord Rama and Goddess Sita, seeking their divine grace and blessings.",
+  "references": [
+    {
+      "title": "Ramayana",
+      "link": "https://www.sacred-texts.com/hin/valmiki/"
+    }
+  ]
+},
+{
+  "number": 14,
+  "name": "Ganesha Gayatri Mantra",
+  "shloka": "Om Lambodaraya Vidmahe, Mahodaraya Dhimahi, Tanno Dantih Prachodayat",
+  "translation": "Om, Let us meditate on the Lord with a curved trunk. Let us meditate on the one with the huge belly. May the tusked one guide us.",
+  "range": "long",
+  "godName": "Lord Ganesha",
+  "purpose": "The Ganesha Gayatri mantra is a sacred chant dedicated to Lord Ganesha. It is chanted to seek his blessings for wisdom, knowledge, and the removal of obstacles.",
+  "duration": "Repetition 108 times",
+  "origin": "Ganesha Purana",
+  "chantingInstructions": "Sit in a calm and quiet place, focus your attention on the divine qualities of Lord Ganesha, and chant the mantra with sincerity and devotion. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Enhances spiritual growth, promotes intellectual sharpness, brings clarity of thought, and bestows divine blessings.",
+  "culturalSignificance": "The Ganesha Gayatri mantra holds immense cultural and spiritual significance in Hinduism and is considered one of the most important and powerful mantras.",
+  "references": [
+    {
+      "title": "Ganesha Purana",
+      "link": "https://www.wisdomlib.org/hinduism/book/the-ganesha-purana"
+    }
+  ]
+},
+{
+  "number": 15,
+  "name": "Saraswati Mantra",
+  "shloka": "Om Aim Saraswatyai Namaha",
+  "translation": "Om, I bow to Goddess Saraswati",
+  "range": "short",
+  "godName": "Goddess Saraswati",
+  "purpose": "The Saraswati mantra is a sacred chant dedicated to Goddess Saraswati, the divine embodiment of knowledge, wisdom, and arts. It is chanted to seek her blessings for academic and creative pursuits.",
+  "duration": "Repetition 108 times",
+  "origin": "Rigveda",
+  "chantingInstructions": "Sit in a serene place, connect with the presence of Goddess Saraswati, and chant the mantra with devotion and gratitude. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Enhances learning and academic performance, promotes creativity and artistic abilities, improves focus and concentration, and bestows divine guidance and inspiration.",
+  "culturalSignificance": "The Saraswati mantra is widely recited by students, scholars, and artists, seeking the blessings of Goddess Saraswati for wisdom and knowledge.",
+  "references": [
+    {
+      "title": "Rigveda",
+      "link": "https://www.sacred-texts.com/hin/rigveda/"
+    }
+  ]
+},
+{
+  "number": 16,
+  "name": "Lakshmi Mantra",
+  "shloka": "Om Shreem Maha Lakshmiyei Namaha",
+  "translation": "Om, I bow to the Great Goddess Lakshmi",
+  "range": "short",
+  "godName": "Goddess Lakshmi",
+  "purpose": "The Lakshmi mantra is a sacred chant dedicated to Goddess Lakshmi, the divine embodiment of wealth, prosperity, and abundance. It is chanted to seek her blessings for material and spiritual prosperity.",
+  "duration": "Repetition 108 times",
+  "origin": "Lakshmi Tantra",
+  "chantingInstructions": "Sit in a calm and peaceful environment, visualize the presence of Goddess Lakshmi, and chant the mantra with devotion and gratitude. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Attracts wealth, abundance, and prosperity, removes financial obstacles, bestows blessings for a harmonious and prosperous life, and promotes spiritual growth.",
+  "culturalSignificance": "The Lakshmi mantra is highly revered in Hinduism and is chanted during festivals like Diwali and Lakshmi Puja, invoking the grace and blessings of Goddess Lakshmi.",
+  "references": [
+    {
+      "title": "Lakshmi Tantra",
+      "link": "https://www.wisdomlib.org/hinduism/book/the-lakshmi-tantra"
+    }
+  ]
+},
+{
+  "number": 17,
+  "name": "Hanuman Mantra",
+  "shloka": "Om Shree Hanumate Namaha",
+  "translation": "Om, I bow to Lord Hanuman",
+  "range": "short",
+  "godName": "Lord Hanuman",
+  "purpose": "The Hanuman mantra is a powerful chant dedicated to Lord Hanuman, the divine monkey god and the epitome of devotion and strength. It is chanted to seek his blessings for courage, protection, and spiritual growth.",
+  "duration": "Repetition 108 times",
+  "origin": "Hanuman Chalisa",
+  "chantingInstructions": "Sit in a calm and focused state, connect with the presence of Lord Hanuman, and chant the mantra with sincerity and devotion. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Instills courage and fearlessness, protects from negative energies and evil forces, promotes physical and mental strength, and grants spiritual blessings and guidance.",
+  "culturalSignificance": "The Hanuman mantra is widely chanted by devotees of Lord Hanuman, seeking his divine grace and assistance in overcoming obstacles and challenges.",
+  "references": [
+    {
+      "title": "Hanuman Chalisa",
+      "link": "https://www.sacred-texts.com/hin/hanu/"
+    }
+  ]
+},
+{
+  "number": 18,
+  "name": "Surya Gayatri Mantra",
+  "shloka": "Om Bhaskaraya Vidmahe, Divakaraya Dhimahi, Tanno Suryah Prachodayat",
+  "translation": "Om, Let us meditate on the Sun God, the giver of light and life. May the radiant one illuminate our minds.",
+  "range": "long",
+  "godName": "The Sun God (Surya)",
+  "purpose": "The Surya Gayatri mantra is a sacred chant dedicated to the Sun God (Surya). It is chanted to seek his blessings for vitality, energy, and enlightenment.",
+  "duration": "Repetition 108 times",
+  "origin": "Rigveda",
+  "chantingInstructions": "Sit in a calm and quiet place, focus your attention on the divine qualities of the Sun God, and chant the mantra with sincerity and devotion. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Enhances physical and mental energy, promotes good health and vitality, stimulates intellectual abilities, and bestows divine blessings.",
+  "culturalSignificance": "The Surya Gayatri mantra holds immense cultural and spiritual significance in Hinduism and is considered a powerful invocation to the Sun God.",
+  "references": [
+    {
+      "title": "Rigveda",
+      "link": "https://www.sacred-texts.com/hin/rigveda/"
+    }
+  ]
+},
+{
+  "number": 19,
+  "name": "Shiva Rudra Mantra",
+  "shloka": "Om Namo Bhagavate Rudraya",
+  "translation": "Om, I bow to the Lord Rudra (Shiva)",
+  "range": "short",
+  "godName": "Lord Shiva",
+  "purpose": "The Shiva Rudra mantra is a powerful chant dedicated to Lord Shiva, the destroyer and transformer in the Hindu trinity. It is chanted to seek his blessings for liberation, inner transformation, and spiritual evolution.",
+  "duration": "Repetition 108 times",
+  "origin": "Yajurveda",
+  "chantingInstructions": "Sit in a serene place, connect with the presence of Lord Shiva, and chant the mantra with utmost reverence and devotion. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Facilitates inner transformation and self-realization, removes obstacles on the spiritual path, bestows divine grace and blessings, and brings peace and harmony.",
+  "culturalSignificance": "The Shiva Rudra mantra is highly regarded in Hinduism and is considered a sacred chant for devotees of Lord Shiva, invoking his divine presence and blessings.",
+  "references": [
+    {
+      "title": "Yajurveda",
+      "link": "https://www.sacred-texts.com/hin/yv/"
+    }
+  ]
+},
+{
+  "number": 20,
+  "name": "Goddess Kali Mantra",
+  "shloka": "Om Kreem Kalikaye Namaha",
+  "translation": "Om, I bow to Goddess Kali",
+  "range": "short",
+  "godName": "Goddess Kali",
+  "purpose": "The Goddess Kali mantra is a powerful chant dedicated to Goddess Kali, the fierce and compassionate form of the Divine Mother. It is chanted to seek her blessings for protection, courage, and spiritual transformation.",
+  "duration": "Repetition 108 times",
+  "origin": "Kali Tantra",
+  "chantingInstructions": "Sit in a calm and focused state, visualize Goddess Kali's divine form, and chant the mantra with utmost devotion and surrender. Repeat it 108 times using a mala (prayer beads) if possible.",
+  "benefits": "Offers protection from negative influences and dark energies, promotes spiritual growth and transformation, grants courage and fearlessness, and bestows divine blessings.",
+  "culturalSignificance": "The Goddess Kali mantra is widely chanted by devotees of Goddess Kali, especially during Kali Puja and other Kali-related festivals, invoking her fierce yet compassionate energy.",
+  "references": [
+    {
+      "title": "Kali Tantra",
+      "link": "https://www.wisdomlib.org/hinduism/book/kali-tantra"
+    }
+  ]
+}
 ]
