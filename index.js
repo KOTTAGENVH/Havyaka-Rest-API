@@ -1,14 +1,23 @@
 require("dotenv").config();
 const express = require("express");
-const fs = require("fs");
+const fs = require("fs/promises");
+const path = require("path");
 const app = express();
 const port = process.env.PORT || 8000;
 
-// Import JSON data from mantra.json
-const mantras = JSON.parse(fs.readFileSync("./public/mantra.json", "utf-8"));
-
 // Middleware for parsing JSON
 app.use(express.json());
+
+// Load mantras data asynchronously
+let mantras = [];
+(async () => {
+    try {
+        const data = await fs.readFile(path.resolve("./public/mantra.json"), "utf-8");
+        mantras = JSON.parse(data);
+    } catch (err) {
+        console.error("Error loading mantras: ", err);
+    }
+})();
 
 // Route to get all mantras
 app.get("/api/v1/mantras", (req, res) => {
