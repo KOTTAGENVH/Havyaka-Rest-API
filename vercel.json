@@ -12,6 +12,9 @@
                 "src":"/(.*)",
                 "dest":"index.js"
             }
+        ],
+        "files": [
+            "mantra.json"
         ]
     
 }
