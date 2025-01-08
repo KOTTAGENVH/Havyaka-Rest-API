@@ -5,7 +5,7 @@ const app = express();
 const port = process.env.PORT || 8000;
 
 // Import JSON data from mantra.json
-const mantras = JSON.parse(fs.readFileSync("./mantra.json", "utf-8"));
+const mantras = JSON.parse(fs.readFileSync("./public/mantra.json", "utf-8"));
 
 // Middleware for parsing JSON
 app.use(express.json());
